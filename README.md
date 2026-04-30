@@ -1,1 +1,5 @@
 # UTS_Prog3_2418327011
+NAMA: Intan Faulia Anggraini
+NMP: 24183207011
+aplikasi ini merupakan antarmuka pemesanan makanan berbasis Java yang dirancang untuk mempermudah proses input data pelanggan dan pemilihan menu secara digital. Pada bagian atas, pengguna diminta untuk mengisi informasi dasar berupa nomor meja dan nama pemesan, serta memilih kategori menu melalui fitur drop-down. Di bawahnya, terdapat kotak daftar yang menampilkan berbagai pilihan hidangan seperti Nasi Goreng dan Mie Goreng, yang memungkinkan pengguna melihat opsi tersedia secara langsung dalam satu tampilan.
+Untuk mengelola pesanan tersebut, aplikasi dalam image_1ad815.png menyediakan tiga tombol aksi utama, yaitu "Tambah" untuk memasukkan pilihan ke daftar pesanan, "Hapus" untuk membatalkan pilihan, dan "Proses" untuk tahap finalisasi. Seluruh elemen ini disusun dalam sebuah jendela dialog yang sederhana dan fungsional, bertujuan untuk mempercepat alur transaksi di restoran mulai dari pencatatan identitas hingga pengolahan pesanan akhir.
